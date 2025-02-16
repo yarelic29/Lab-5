@@ -9,3 +9,4 @@ Where will you use a loop?
 the use of loops will be into commanding to responed from different gears
 Where will you use a list/map/dictionary?
 Yes I will use list amd map 
+ 
