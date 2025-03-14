@@ -1,8 +1,9 @@
 class Car:
-    def __init__(self, head_lights: bool, tail_lights: bool,tires: int):
+    def __init__(self, head_lights: bool, tail_lights: bool, tires: int, speed: int):
         self.head_lights = head_lights
         self.tail_lights = tail_lights
         self.tires = tires
+        self.speed = speed
         self.accessories = []
 
     def drive(self, location: str):
